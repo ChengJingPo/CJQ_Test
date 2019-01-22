@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CJQ_Test_Example' do
+  pod 'CJQ_Test', :path => '../'
+
+  target 'CJQ_Test_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
