@@ -1,0 +1,16 @@
+PODS:
+  - CJQ_Test (0.1.0)
+
+DEPENDENCIES:
+  - CJQ_Test (from `../`)
+
+EXTERNAL SOURCES:
+  CJQ_Test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJQ_Test: c1080c643fdbe04a45d2068a6e50152ad2de9826
+
+PODFILE CHECKSUM: feb6866dc0d6a7001aa50e265813c9ec9878ec0c
+
+COCOAPODS: 1.6.0.beta.2
