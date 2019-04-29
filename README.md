@@ -1,4 +1,4 @@
-# CJQ_Test
+# CJQ_Test（尝试制作自己的库）
 
 
 [![CI Status](https://img.shields.io/travis/ChengJingPo/CJQ_Test.svg?style=flat)](https://travis-ci.org/ChengJingPo/CJQ_Test)
